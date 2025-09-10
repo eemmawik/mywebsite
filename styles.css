@@ -19,13 +19,13 @@ body{
          }
          header{
             background-color: rgb(195, 157, 231);
-            background-image: url("/mywebsite/images/istockphoto-2206478113-612x612.jpg");
+            background-image: url("/images/istockphoto-2206478113-612x612.jpg");
             background-size: cover;
             padding: 30px;
         
          }
          header .logo a{
-            background-image: url("/mywebsite/images/pngtree-color-wheel-icon-design-on-white-background-png-image_4873358.png");
+            background-image: url("/images/pngtree-color-wheel-icon-design-on-white-background-png-image_4873358.png");
             background-size: 100px;
             background-repeat: no-repeat;
             position: relative;
